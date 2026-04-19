@@ -1,4 +1,4 @@
-# LeadMonster
+![leadghost](images/logo.jpeg)
 
 ### Instructions
 1. Open LeadMonster.exe
